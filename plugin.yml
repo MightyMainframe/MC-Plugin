@@ -1,0 +1,10 @@
+name: HelloWorld
+version: 1.0
+author: Mighty Mainframe
+main: me.dellta.helloworld.main
+description: Our first plugin.
+
+commands:
+  hello:
+   aliases: [hi]
+   description: The Ping Pong command.
